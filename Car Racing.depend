@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1525660758 source:/home/nguyenhopquang/C++/Cuoi Ki/main.cpp
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+
+1623756451 source:c:\users\stranger\desktop\carracing-master\main.cpp
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+
