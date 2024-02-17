@@ -13,12 +13,14 @@
 				<Option compiler="gcc" />
 				<Compiler>
 					<Add option="-g" />
+					<Add directory="../SFML-2.4.0/include" />
 				</Compiler>
 				<Linker>
 					<Add library="sfml-graphics" />
 					<Add library="sfml-window" />
 					<Add library="sfml-system" />
 					<Add library="sfml-audio" />
+					<Add directory="../SFML-2.4.0/lib" />
 				</Linker>
 			</Target>
 			<Target title="Release">
@@ -28,6 +30,7 @@
 				<Option compiler="gcc" />
 				<Compiler>
 					<Add option="-O2" />
+					<Add directory="../SFML-2.4.0/include" />
 				</Compiler>
 				<Linker>
 					<Add option="-s" />
@@ -35,6 +38,7 @@
 					<Add library="sfml-window" />
 					<Add library="sfml-system" />
 					<Add library="sfml-audio" />
+					<Add directory="../SFML-2.4.0/lib" />
 				</Linker>
 			</Target>
 		</Build>
@@ -43,10 +47,6 @@
 		</Compiler>
 		<Unit filename="cb.bmp" />
 		<Unit filename="main.cpp" />
-		<Extensions>
-			<code_completion />
-			<envvars />
-			<debugger />
-		</Extensions>
+		<Extensions />
 	</Project>
 </CodeBlocks_project_file>
