@@ -8,3 +8,7 @@ Highscore เอาไว้ สำหรับให้มีแนวทาง
 เข้าเส้นชัย หรือมีคนใดคนนึงชนสิ่งกีดขวาง (ปล.เบียดกันได้ตามสบาย) และ โหมดจับเวลาเพื่อให้ผู้เล่นทำสถิติให้เร็วที่สุด
 
 ![ezgif-7-c31c25c6d9](https://github.com/Sonaticspink/Pixel-Car-RACIST/assets/88589797/f2dde9af-faf5-4caf-adc3-9c05d27d2800)
+
+**Alpha Gameplay**
+
+![ezgif-2-122979766a](https://github.com/Sonaticspink/Pixel-Car-RACIST/assets/88589797/62f3acb0-4591-4e90-bfca-e9e076f73102)
