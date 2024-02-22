@@ -12,3 +12,7 @@ Highscore เอาไว้ สำหรับให้มีแนวทาง
 **Alpha Gameplay**
 
 ![ezgif-2-122979766a](https://github.com/Sonaticspink/Pixel-Car-RACIST/assets/88589797/62f3acb0-4591-4e90-bfca-e9e076f73102)
+
+**Beta Gameplay**
+
+![ezgif-2-0696f2ba0a](https://github.com/Sonaticspink/Pixel-Car-RACIST/assets/88589797/9948b5c5-e7a7-4585-9f5b-887b605d9ea7)
